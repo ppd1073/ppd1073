@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Prajakta Deshpande
 
-<!--
-**ppd1073/ppd1073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Power BI • SQL • Python • Data Warehousing • AI-Driven Analytics**
 
-Here are some ideas to get you started:
+I design and automate data workflows that transform raw data into decision-ready insights.  
+After 4+ years in healthcare and pharmaceutical analytics, I’m now building a portfolio that demonstrates modern BI dashboards, data engineering, and AI-assisted analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 My Technical Stack
+- **Databases:** SQL Server, PostgreSQL, Snowflake  
+- **BI Tools:** Power BI (DAX, Power Query)  
+- **Data Engineering:** ETL, Dimensional Modeling, Pentaho  
+- **Programming:** Python (pandas, matplotlib)  
+- **AI Analytics:** LangChain, LLM-based SQL automation  
+
+---
+
+## 📊 Portfolio Projects
+| # | Project | Description | Tools |
+|---|----------|--------------|-------|
+| 1 | [Healthcare Data Quality Dashboard](https://github.com/ppd1073/healthcare-data-quality-analytics) | Detects anomalies and tracks QC metrics for healthcare data | SQL, Power BI |
+| 2 | [Retail BI Dashboard](https://github.com/ppd1073/retail-powerbi-dashboard) | Retail KPIs and profitability analysis | Power BI, DAX |
+| 3 | [AI SQL Agent Prototype](https://github.com/ppd1073/ai-sql-agent-langchain) | Natural language → SQL execution using LLMs | Python, LangChain |
+| 4 | [HR Attrition Analysis](https://github.com/ppd1073/hr-attrition-analysis) | Predicts attrition and workforce trends | Python, pandas |
+
+---
+
+## 📬 Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/prajakta-deshpande)
+- ✉️ Email: ppdpune@gmail.com
+- 📍 Gujarat, India (Open to Remote / Relocation)
