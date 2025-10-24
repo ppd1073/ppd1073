@@ -20,7 +20,7 @@ After 4+ years in healthcare and pharmaceutical analytics, I’m now building a 
 | # | Project | Description | Tools |
 |---|----------|--------------|-------|
 | 1 | [Healthcare Data Quality Dashboard](https://github.com/ppd1073/healthcare-data-quality-analytics) | Detects anomalies and tracks QC metrics for healthcare data | SQL, Power BI |
-| 2 | [Retail BI Dashboard](https://github.com/ppd1073/Global-fashion-retail-analytics) | Global fashion trend analysis | Power BI, DAX |
+| 2 | [Global Fashion Trend Dashboard](https://github.com/ppd1073/Global-fashion-retail-analytics) | Global fashion trend analysis | Power BI, DAX |
 | 3 | [AI SQL Agent Prototype](https://github.com/ppd1073/ai-sql-agent-langchain) | Natural language → SQL execution using LLMs | Python, LangChain |
 | 4 | [HR Attrition Analysis](https://github.com/ppd1073/hr-attrition-analysis) | Predicts attrition and workforce trends | Python, pandas |
 
