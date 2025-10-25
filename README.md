@@ -2,8 +2,24 @@
 
 **Data Analyst | Power BI • SQL • Python • Data Warehousing • AI-Driven Analytics**
 
-I design and automate data workflows that transform raw data into decision-ready insights.  
-After 4+ years in healthcare and pharmaceutical analytics, I’m now building a portfolio that demonstrates modern BI dashboards, data engineering, and AI-assisted analytics.
+## 👋 About Me  
+
+I'm a results-driven **Data Analyst** with 4+ years of experience transforming complex healthcare, pharmaceutical, and operational datasets into actionable insights.  
+
+🎓 **Education:** M.S. in Information Science & Technology — Rochester Institute of Technology (RIT)  
+🏢 **Industry Experience:** ConcertAI | Cresen Solutions  
+
+💡 My work centers on:  
+- **Data Quality & Governance** — building robust validation frameworks for regulated healthcare data  
+- **ETL & BI Development** — designing scalable pipelines and KPI dashboards in **Power BI, SQL, and Pentaho**  
+- **Automation & AI Integration** — developing intelligent data workflows using **Python** and **LangChain**
+
+---
+
+### 🚀 Current Focus (2025)
+- Completed **Microsoft Power BI Data Analyst Professional Certificate**  
+- Pursuing **Data Warehousing for Business Intelligence (University of Colorado)**  
+- Expanding into **AI-assisted analytics** and **Python-based workflow automation**
 
 ---
 
