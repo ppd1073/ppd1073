@@ -2,8 +2,6 @@
 
 **Data Analyst | Power BI • SQL • Python • Data Warehousing • AI-Driven Analytics**
 
-## 👋 About Me  
-
 I'm a results-driven **Data Analyst** with 4+ years of experience transforming complex healthcare, pharmaceutical, and operational datasets into actionable insights.  
 
 🎓 **Education:** M.S. in Information Science & Technology — Rochester Institute of Technology (RIT)  
