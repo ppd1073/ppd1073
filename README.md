@@ -16,7 +16,7 @@ I'm a results-driven **Data Analyst** with 4+ years of experience transforming c
 
 ### 🚀 Current Focus (2025)
 - Completed **Microsoft Power BI Data Analyst Professional Certificate**  
-- Pursuing **Data Warehousing for Business Intelligence (University of Colorado)**  
+- Completed **Data Warehousing for Business Intelligence (University of Colorado System)**  
 - Expanding into **AI-assisted analytics** and **Python-based workflow automation**
 
 ---
