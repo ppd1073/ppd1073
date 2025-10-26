@@ -5,7 +5,7 @@
 I'm a results-driven **Data Analyst** with 4+ years of experience transforming complex healthcare, pharmaceutical, and operational datasets into actionable insights.  
 
 🎓 **Education:** M.S. in Information Science & Technology — Rochester Institute of Technology (RIT)  
-🏢 **Industry Experience:** ConcertAI | Cresen Solutions  
+🏢 **Industry Experience:** ConcertAI, USA | Cresen Solutions, USA  
 
 💡 My work centers on:  
 - **Data Quality & Governance** — building robust validation frameworks for regulated healthcare data  
